@@ -1,0 +1,55 @@
+ "itineraries": [
+        {
+          "duration": "PT14H30M",
+          "segments": [
+            {
+              "departure": {
+                "iataCode": "SYD",
+                "terminal": "0",
+                "at": "2025-02-15T07:15:00"
+              },
+              "arrival": {
+                "iataCode": "DPS",
+                "terminal": "0",
+                "at": "2025-02-15T10:45:00"
+              },
+              "carrierCode": "OD",
+              "number": "172",
+              "aircraft": {
+                "code": "738"
+              },
+              "operating": {
+                "carrierCode": "OD"
+              },
+              "duration": "PT6H30M",
+              "id": "61",
+              "numberOfStops": 0,
+              "blacklistedInEU": false
+            },
+            {
+              "departure": {
+                "iataCode": "DPS",
+                "terminal": "D",
+                "at": "2025-02-15T14:15:00"
+              },
+              "arrival": {
+                "iataCode": "DMK",
+                "terminal": "0",
+                "at": "2025-02-15T17:45:00"
+              },
+              "carrierCode": "ID",
+              "number": "7637",
+              "aircraft": {
+                "code": "738"
+              },
+              "operating": {
+                "carrierCode": "ID"
+              },
+              "duration": "PT4H30M",
+              "id": "62",
+              "numberOfStops": 0,
+              "blacklistedInEU": false
+            }
+          ]
+        }
+      ]
